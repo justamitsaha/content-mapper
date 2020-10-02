@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "content-mapper"
+  "defaultProject": "content-mapper",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -1,3 +1,42 @@
 {
-    "lau": {}
+  "content": [{
+      "productName": "Name",
+      "productCategory": "Category",
+      "productRating": "Stars",
+      "productComments": [{
+          "comment1": "Comment1"
+        },
+        {
+          "comment2": "Comment2"
+        }
+      ],
+      "productPrice": "Cost"
+    },
+    {
+      "productName": "Name",
+      "productCategory": "Category",
+      "productRating": "Stars",
+      "productComments": [{
+          "comment1": "Comment1"
+        },
+        {
+          "comment2": "Comment2"
+        }
+      ],
+      "productPrice": "Cost"
+    },
+    {
+      "productName": "Name",
+      "productCategory": "Category",
+      "productRating": "Stars",
+      "productComments": [{
+          "comment1": "Comment1"
+        },
+        {
+          "comment2": "Comment2"
+        }
+      ],
+      "productPrice": "Cost"
+    }
+  ]
 }

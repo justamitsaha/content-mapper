@@ -1,46 +1,43 @@
 {
-    "content": {
-        "product1": {
-            "productName": "Name",
-            "productCategory": "Category",
-            "productRating": "Stars",
-            "productComments": [
-                {
-                    "comment1": "Comment1"
-                },
-                {
-                    "comment2": "Comment2"
-                }
-            ],
-            "productPrice": "Cost"
+  "content": {
+    "product1": {
+      "productName": "Name",
+      "productCategory": "Category",
+      "productRating": "Stars",
+      "productComments": [{
+          "comment1": "Comment1"
         },
-        "product2": {
-            "productName": "Name",
-            "productCategory": "Category",
-            "productRating": "Stars",
-            "productComments": [
-                {
-                    "comment1": "Comment1"
-                },
-                {
-                    "comment2": "Comment2"
-                }
-            ],
-            "productPrice": "Cost"
-        },
-        "product3": {
-            "productName": "Name",
-            "productCategory": "Category",
-            "productRating": "Stars",
-            "productComments": [
-                {
-                    "comment1": "Comment1"
-                },
-                {
-                    "comment2": "Comment2"
-                }
-            ],
-            "productPrice": "Cost"
+        {
+          "comment2": "Comment2"
         }
+      ],
+      "productPrice": "Cost"
+    },
+    "product2": {
+      "productName": "Name",
+      "productCategory": "Category",
+      "productRating": "Stars",
+      "productComments": [{
+          "comment1": "Comment1"
+        },
+        {
+          "comment2": "Comment2"
+        }
+      ],
+      "productPrice": "Cost"
+    },
+    "product3": {
+      "productName": "Name",
+      "productCategory": "Category",
+      "productRating": "Stars",
+      "productComments": [{
+          "comment1": "Comment1"
+        },
+        {
+          "comment2": "Comment2"
+        }
+      ],
+      "productPrice": "Cost"
     }
+  }
 }
